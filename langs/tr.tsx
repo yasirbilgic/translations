@@ -723,13 +723,13 @@ const messages:IMessages = {
     h: "IEJfuOO0LRCEv2OUh8Cz02PtiJ8tqVTRzeXK5DyqBQs=",
   },
   "Expenses": {
-    val: "Expenses",
-    translated: false,
+    val: "Harcamalar",
+    translated: true,
     h: "d6aKytFAPwPUzFOv41R0itfcMu11VdE29vkM05dnpBU=",
   },
   "Export": {
-    val: "Export",
-    translated: false,
+    val: "Dışa Aktar",
+    translated: true,
     h: "mZJs0iE089tMZ5BWqTUBp+2aJ90wKL4act4hUPt7zkA=",
   },
   "Faint cents": {
@@ -739,40 +739,40 @@ const messages:IMessages = {
     h: "gL5W+6nmqNfRsbiNIBEyHIX0LvI1xCYl+kDyuUwFsGI=",
   },
   "File": {
-    val: "File",
-    translated: false,
+    val: "Dosya",
+    translated: true,
     h: "9XpUff7TtVQbIncvgmrfzVB2gkBh35RnM1ET/HFr3k0=",
   },
   "File does not exist:": {
-    val: "File does not exist:",
-    translated: false,
+    val: "Dosya mevcut değil:",
+    translated: true,
     h: "RPeWW9lCHkg+d6XybADj3OH2jxrYcSOhrA3+QHEcYz0=",
   },
   "File saved: ": {
-    val: "File saved: ",
-    translated: false,
+    val: "Dosya kaydedildi: ",
+    translated: true,
     h: "e6UDV8UzF5qqysQpN3OrcspjD8zPNn72zKd1CH1lFe8=",
   },
   "File type not recognized.": {
-    val: "Import Failed",
-    translated: false,
+    val: "İçe Aktarma Başarısız",
+    translated: true,
     h: "Z6QnadHff9fEji/vnFxKuxbfAKGNb263Hm13z3txfSM=",
   },
   "Find Next": {
     /* Edit menu label for finding the next match.  Perhaps use what your browser or other applications use. */
-    val: "Find Next",
-    translated: false,
+    val: "Sonrakini Bul",
+    translated: true,
     h: "LALfI5V4TsQo0DcGJwmNmrm3xNPtY5PmQuxB1voZo34=",
   },
   "Find Previous": {
     /* Edit menu label for finding the previous match.  Perhaps use what your browser or other applications use. */
-    val: "Find Previous",
-    translated: false,
+    val: "Öncekini Bul",
+    translated: true,
     h: "0n6Dq5KDTxxsTAKrJE+RDdgi9ln6FyfUEPNBJ6ejZ5o=",
   },
   "Find...": {
-    val: "Find...",
-    translated: false,
+    val: "Bul...",
+    translated: true,
     h: "aUU1pzvlZzKNgYZP2ZpPtQMImBOStbFnK33P3YwXTNs=",
   },
   "Finish import": {
@@ -822,8 +822,8 @@ const messages:IMessages = {
     h: "v+G5gj6B+MtHwQovNmj/BWbpnQncARZGo+swhE1fbtg=",
   },
   "Goal:": {
-    val: "Goal:",
-    translated: false,
+    val: "Hedef:",
+    translated: true,
     h: "77+E2dn/Mw53xjGhNc6irsiq1WULAiC4yIyt4NaO0DM=",
   },
   "Goal: 0": {
@@ -838,8 +838,8 @@ const messages:IMessages = {
   },
   "Guide": {
     /* Menu label for the Buckets user guide */
-    val: "Guide",
-    translated: false,
+    val: "Kılavuz",
+    translated: true,
     h: "E0TqJgLjqp65xs2CJV72FGZk5q/R8lIwaWCMnXpvTPE=",
   },
   "Header row": {
@@ -849,18 +849,18 @@ const messages:IMessages = {
     h: "uRtdJlb7w3q8Zl9lZhtY0JReqNVI7CfOdo5I9SW5lfw=",
   },
   "Health Insurance": {
-    val: "Health Insurance",
-    translated: false,
+    val: "Sağlık Sigortası",
+    translated: true,
     h: "nsWIG2Kbb9OtoQkBvgkFh5MfMVNfbuGKhZypQ3uoQJw=",
   },
   "Hello!  Thanks for trying out Buckets.": {
-    val: "Hello!  Thanks for trying out Buckets.",
-    translated: false,
+    val: "Merhaba!  Buckets'ı denediğiniz için teşekkürler.",
+    translated: true,
     h: "0m9VvMGwLCqD3lmZ24GbzlkRxPX1kf/DsbWA9kkBWX0=",
   },
   "Help": {
-    val: "Help",
-    translated: false,
+    val: "Yardım",
+    translated: true,
     h: "TvUUB7AuCuFJ9IWiz2SbsjnUvYoDPZAaMPxup/rwosM=",
   },
   "Hide Buckets": {
@@ -875,8 +875,8 @@ const messages:IMessages = {
     h: "RpKz0G7Y8OE5oyGm0/zRffPdr7RQkneZCYrikLHIZ+U=",
   },
   "Holidays": {
-    val: "Holidays",
-    translated: false,
+    val: "Tatiller",
+    translated: true,
     h: "HTQ10E8CaKVUu71N6uLx9J+Y6naLLRX37v0oQkesV3k=",
   },
   "Household goods": {
@@ -905,23 +905,23 @@ const messages:IMessages = {
     h: "bxc4+JxhDrm2oYWek0ISeJDxq173KLfpcnOT4GEMWGQ=",
   },
   "Import": {
-    val: "Import",
-    translated: false,
+    val: "İçe aktar",
+    translated: true,
     h: "F3sijvfYz3oB4iz2rVHjUvNDLQs43MbXDVIr5VFA2/c=",
   },
   "Import .zip file": {
-    val: "Import .zip file",
-    translated: false,
+    val: ".zip dosyasını içe aktar",
+    translated: true,
     h: "EmJa8O6YE7jrgmaqDUM5pIdurIYHfx1RIvVLHmqhRws=",
   },
   "Import From Web YNAB...": {
-    val: "Import From Web YNAB...",
-    translated: false,
+    val: "Web YNAB'den içe aktar...",
+    translated: true,
     h: "7Yteq/akhgWWCBUeqgBRz4wP6bKcirfp74uLeTQop3Q=",
   },
   "Import From YNAB4...": {
-    val: "Import From YNAB4...",
-    translated: false,
+    val: "YNAB4'ten içe aktar....",
+    translated: true,
     h: "z10Vp9BzEC6CkLTNtR8xywSTNYGMBbGFZMD7XUEbrVs=",
   },
   "Import Transactions...": {
@@ -930,13 +930,13 @@ const messages:IMessages = {
     h: "PPLzf/61MKc3iWfDMTRo6ERH/TYu6TxBH2vmVbZD5Lk=",
   },
   "Import all Amazon Reports": {
-    val: "Import all Amazon Reports",
-    translated: false,
+    val: "Tüm Amazon raporlarını içe aktar",
+    translated: true,
     h: "EwzV2gCi/cxxLtdXGeSBJLDZhAhXqomL1rdi7QPOQxA=",
   },
   "Import complete!": {
-    val: "Import complete!",
-    translated: false,
+    val: "İçe aktarma tamamlandı!",
+    translated: true,
     h: "L9VgrAXBV8q2Ux9I1Y2Mr/vbc6PiBI0Uxct20Hw6hwY=",
   },
   "Import file": {
@@ -978,8 +978,8 @@ const messages:IMessages = {
     h: "rjy01ggb0uSRPn/tmrf/BVwGQiXaaSc6Nh+o92BIU3U=",
   },
   "Income": {
-    val: "Income",
-    translated: false,
+    val: "Gelir",
+    translated: true,
     h: "D2fJbta5d1Z5QYuRC5zzkBHsItZOOgY4FKrFJ64BvRs=",
   },
   "Install and Relaunch Buckets": {
@@ -988,13 +988,13 @@ const messages:IMessages = {
     h: "bzusTDIT831mqEwmmM59eT12mfoNMYiGPbUfoIzaCwo=",
   },
   "Internet": {
-    val: "Internet",
-    translated: false,
+    val: "İnternet",
+    translated: true,
     h: "LUwTAW8PsV34HKGrTUopI7v3NFK8iWKpv5Nb8EOtU1E=",
   },
   "Invalid": {
-    val: "Invalid",
-    translated: false,
+    val: "Geçersiz",
+    translated: true,
     h: "TTWlQj/xySwj3x3tLJd80Tl+VmJXWWdhFpMq90hNbfg=",
   },
   "Invalid SimpleFIN Token": {
@@ -1062,8 +1062,8 @@ const messages:IMessages = {
   },
   "Language": {
     /* Label for application language preference */
-    val: "Language",
-    translated: false,
+    val: "Dil",
+    translated: true,
     h: "H6JLSQVzeo1QvqYd6ewWITP1MyGheSF5eFCeaP6nQwk=",
   },
   "Language default": {
