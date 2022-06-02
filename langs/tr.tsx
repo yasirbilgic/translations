@@ -195,13 +195,13 @@ const messages:IMessages = {
     h: "yOfOnHbye/Uhao1fb5jtfP4z0XPyc757kdBFt32Uwrc=",
   },
   "Balance": {
-    val: "Balance",
-    translated: false,
+    val: "Bakiye",
+    translated: true,
     h: "azvDWgVPY349dq4q8mbtpDhehRsFKYKNzMk/TcuOvEQ=",
   },
   "Balance:": {
-    val: "Balance:",
-    translated: false,
+    val: "Bakiye:",
+    translated: true,
     h: "hHHAAGXs0oscbD5jkMQSQUQ5sLsgo/sPaBumUBAq+CA=",
   },
   "Birthdays": {
@@ -293,13 +293,13 @@ const messages:IMessages = {
     h: "iUtlYMX6nlvjb8WPFElRbcnOQ/BXPc6BjaHKp6b6GUM=",
   },
   "CSV Fields": {
-    val: "CSV Fields",
-    translated: false,
+    val: "CSV Alanları",
+    translated: true,
     h: "oqAayNv4L3OeWfsN66FDAh9MWIsR//voLRTEotp3GUQ=",
   },
   "Cable TV": {
-    val: "Cable TV",
-    translated: false,
+    val: "Kablo TV",
+    translated: true,
     h: "wISz6Dh0vnQ1Tjhr9GWcJ2rhiif2af6NXsAzEAXYxfo=",
   },
   "Calculator": {
@@ -329,18 +329,18 @@ const messages:IMessages = {
     h: "Lsok3+kX1L7SXMumFWNo+oxBgfmGJcWg1CdSDw6byx8=",
   },
   "Car Payment": {
-    val: "Car Payment",
-    translated: false,
+    val: "Araç Taksidi",
+    translated: true,
     h: "wp49ZoinRgifzKQ+N9RrJ6LG/9Yw6hkw1RCwXwHc6tA=",
   },
   "Categorization": {
-    val: "Categorization",
-    translated: false,
+    val: "Sınıflandırma",
+    translated: true,
     h: "DShuYOF3daz37AE7lGCN1TajYU1VyorRCvLwh4bM1r8=",
   },
   "Categorize": {
-    val: "Categorize",
-    translated: false,
+    val: "Sınıflandır",
+    translated: true,
     h: "mA6/TefxgXpo2M+OUx/ATLQ4QYHv4t1+8vy3MmV+EQg=",
   },
   "Category": {
@@ -354,8 +354,8 @@ const messages:IMessages = {
     h: "elw7uWDm9Vij1azrwiBbY+VwbjMQuo/xziG393BqGUA=",
   },
   "Charity": {
-    val: "Charity",
-    translated: false,
+    val: "Bağış",
+    translated: true,
     h: "5OqY1JRI3brWCHQyu9VDY9hpjXzg1cVB1oQnXLQjZ4U=",
   },
   "Chat with Matt": {
@@ -385,14 +385,14 @@ const messages:IMessages = {
     h: "wjjhyYhYEFdJWUmwdJIEdxm0iAq2bwrWU79ANObzzZY=",
   },
   "Choose a file ending in either .ynab4 or .ymeta": {
-    val: "Choose a file ending in either .ynab4 or .ymeta",
-    translated: false,
+    val: "Sonu .ynab4 veya .ymeta ile biten bir dosya seçiniz",
+    translated: true,
     h: "Tym1GWz52+2AgA4qwsbqknBtvR9QYYGN2y5oYYQ7yZQ=",
   },
   "Cleared": {
     /* Tooltip text indicating that a transaction has cleared. */
-    val: "Cleared",
-    translated: false,
+    val: "İşlem Temizlendi",
+    translated: true,
     h: "j1SmbPuDDBP04XfOH9NNFCDzXmB9xAzSoVG7RcHcdBg=",
   },
   "Cleared balance": {
